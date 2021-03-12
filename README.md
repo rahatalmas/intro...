@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rahatalmas
 - 👀 I’m interested in computer science and engineering
 - 🌱 I’m currently learning development and using all type of data structure 
-- 💞️ I’m looking to collaborate on competetive programming
+- 💞️ I’m looking to collaborate on competitive programming
 - 📫 How to reach me : rahat.almas5599@gmail.com
 
 <!---
